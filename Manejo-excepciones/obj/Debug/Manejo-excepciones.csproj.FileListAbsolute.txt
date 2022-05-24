@@ -1,0 +1,7 @@
+F:\PROGRAMACIÓN2A\Manejo-excepciones\bin\Debug\Manejo-excepciones.exe.config
+F:\PROGRAMACIÓN2A\Manejo-excepciones\bin\Debug\Manejo-excepciones.exe
+F:\PROGRAMACIÓN2A\Manejo-excepciones\bin\Debug\Manejo-excepciones.pdb
+F:\PROGRAMACIÓN2A\Manejo-excepciones\obj\Debug\Manejo-excepciones.csproj.AssemblyReference.cache
+F:\PROGRAMACIÓN2A\Manejo-excepciones\obj\Debug\Manejo-excepciones.csproj.CoreCompileInputs.cache
+F:\PROGRAMACIÓN2A\Manejo-excepciones\obj\Debug\Manejo-excepciones.exe
+F:\PROGRAMACIÓN2A\Manejo-excepciones\obj\Debug\Manejo-excepciones.pdb
